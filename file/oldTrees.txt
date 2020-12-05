@@ -1,0 +1,4 @@
+Tree Height   Age 
+1.   130.500  7 
+2.   140.000  6 
+Number of old trees = 2.
